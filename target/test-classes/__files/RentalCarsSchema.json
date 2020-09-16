@@ -1,0 +1,67 @@
+ {
+        "Cars": [
+            {
+                "make": "Audi",
+                "model": "A7",
+                "vin": "09AGHY64352JITEG98K",
+                "metadata": {
+                    "Color": "Black",
+                    "Notes": "Scratches on the front side of the car"
+                },
+                "perdayrent": {
+                    "Price": 140,
+                    "Discount": 15
+                },
+                "metrics": {
+                    "yoymaintenancecost": 2190.76,
+                    "depreciation": 2256.43,
+                    "rentalcount": {
+                        "lastweek": 4,
+                        "yeartodate": 221
+                    }
+                }
+            },
+            {
+                "make": "Tesla",
+                "model": "Model X",
+                "vin": "08AGHY64352JITEG98K",
+                "metadata": {
+                    "Color": "Blue",
+                    "Notes": "Scratches on the front side of the car"
+                },
+                "perdayrent": {
+                    "Price": 150,
+                    "Discount": 20
+                },
+                "metrics": {
+                    "yoymaintenancecost": 2000.76,
+                    "depreciation": 2400.43,
+                    "rentalcount": {
+                        "lastweek": 6,
+                        "yeartodate": 220
+                    }
+                }
+            },
+            {
+                "make": "BMW",
+                "model": "B3",
+                "vin": "02AGHY64352JITEG98K",
+                "metadata": {
+                    "Color": "white",
+                    "Notes": "Scratches on the front side of the car"
+                },
+                "perdayrent": {
+                    "Price": 100,
+                    "Discount": 10
+                },
+                "metrics": {
+                    "yoymaintenancecost": 2300.75,
+                    "depreciation": 2400.43,
+                    "rentalcount": {
+                        "lastweek": 2,
+                        "yeartodate": 250
+                    }
+                }
+            }
+        ]
+    }

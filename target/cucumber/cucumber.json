@@ -1,0 +1,137 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 101925700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "stubbingmapping for getrequest",
+            "match": {
+              "location": "stepdefinitionfile.stubbingmapping_for_getrequest()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1145905400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefinitionfile.user_starts_the_wiremock_server()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Return all cars which have lowest per day price and price after discount",
+        "description": "",
+        "id": "rental-car-test-get-request-and-verify-the-response-using-rest-assured;return-all-cars-which-have-lowest-per-day-price-and-price-after-discount",
+        "after": [
+          {
+            "result": {
+              "duration": 6302300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefinitionfile.quit_the_wiremockserver()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1173987200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user calls the get request API with GET http request",
+            "match": {
+              "location": "stepdefinitionfile.user_calls_the_get_request_API_with_GET_http_request()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 13803900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user should see the response body",
+            "match": {
+              "location": "stepdefinitionfile.user_should_see_the_response_body()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2337100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "The API call got the success with status code 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 46
+                }
+              ],
+              "location": "stepdefinitionfile.the_API_call_got_the_success_with_status_code(int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 405623400,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Return all cars which have  the lowest per day price",
+            "match": {
+              "location": "stepdefinitionfile.return_all_cars_which_have_the_lowest_per_day_price()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 137140700,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Return all cars which have lowest  the per day price after discount",
+            "match": {
+              "location": "stepdefinitionfile.return_all_cars_which_have_lowest_the_per_day_price_after_discount()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 13,
+            "name": "@tag2"
+          }
+        ]
+      }
+    ],
+    "name": "Rental Car test Get request and verify the response using Rest Assured",
+    "description": "",
+    "id": "rental-car-test-get-request-and-verify-the-response-using-rest-assured",
+    "keyword": "Feature",
+    "uri": "RentalcarFeatureFile.feature"
+  }
+]

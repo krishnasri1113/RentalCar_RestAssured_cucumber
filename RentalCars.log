@@ -1,0 +1,38 @@
+2020-09-07 23:42:12 INFO  com.RestAssured.Utilites.TestBase 90 - Name of the cars are [Audi, Tesla, BMW]
+2020-09-07 23:42:12 INFO  com.RestAssured.Utilites.TestBase 93 - Car colors are[Black, Blue, white]
+2020-09-07 23:42:12 INFO  com.RestAssured.Utilites.TestBase 104 - Blue clor cars are Tesla
+2020-09-07 23:42:12 INFO  com.RestAssured.Utilites.TestBase 106 - Blue color car notes are Scratches on the front side of the car
+2020-09-07 23:42:12 INFO  CommonUtilites 14 - Log4j PropertyFile Path C:\Users\siri\eclipse-workspace\RentalCar_RestAssured_Cucumber/src/main/resources/Properties/Log4j.properties
+2020-09-07 23:42:12 INFO  com.RestAssured.Utilites.TestBase 123 - Per day rent of all cars are [{Discount=15, Price=140}, {Discount=20, Price=150}, {Discount=10, Price=100}]
+2020-09-07 23:42:12 INFO  com.RestAssured.Utilites.TestBase 151 - Per day rent of all cars are [{Discount=15, Price=140}, {Discount=20, Price=150}, {Discount=10, Price=100}]
+2020-09-07 23:42:13 INFO  CommonUtilites 14 - Log4j PropertyFile Path C:\Users\siri\eclipse-workspace\RentalCar_RestAssured_Cucumber/src/main/resources/Properties/Log4j.properties
+2020-09-07 23:43:04 INFO  com.RestAssured.Utilites.TestBase 90 - Name of the cars are [Audi, Tesla, BMW]
+2020-09-07 23:43:04 INFO  com.RestAssured.Utilites.TestBase 93 - Car colors are[Black, Blue, white]
+2020-09-07 23:43:04 INFO  com.RestAssured.Utilites.TestBase 104 - Blue clor cars are Tesla
+2020-09-07 23:43:04 INFO  com.RestAssured.Utilites.TestBase 106 - Blue color car notes are Scratches on the front side of the car
+2020-09-07 23:43:04 INFO  CommonUtilites 14 - Log4j PropertyFile Path C:\Users\siri\eclipse-workspace\RentalCar_RestAssured_Cucumber/src/main/resources/Properties/Log4j.properties
+2020-09-07 23:43:04 INFO  com.RestAssured.Utilites.TestBase 123 - Per day rent of all cars are [{Discount=15, Price=140}, {Discount=20, Price=150}, {Discount=10, Price=100}]
+2020-09-07 23:43:04 INFO  com.RestAssured.Utilites.TestBase 151 - Per day rent of all cars are [{Discount=15, Price=140}, {Discount=20, Price=150}, {Discount=10, Price=100}]
+2020-09-07 23:43:04 INFO  CommonUtilites 14 - Log4j PropertyFile Path C:\Users\siri\eclipse-workspace\RentalCar_RestAssured_Cucumber/src/main/resources/Properties/Log4j.properties
+2020-09-07 23:59:07 INFO  com.RestAssured.Utilites.TestBase 90 - Name of the cars are [Audi, Tesla, BMW]
+2020-09-07 23:59:07 INFO  com.RestAssured.Utilites.TestBase 93 - Car colors are[Black, Blue, white]
+2020-09-07 23:59:07 INFO  com.RestAssured.Utilites.TestBase 104 - Blue clor cars are Tesla
+2020-09-07 23:59:07 INFO  com.RestAssured.Utilites.TestBase 106 - Blue color car notes are Scratches on the front side of the car
+2020-09-07 23:59:07 INFO  CommonUtilites 14 - Log4j PropertyFile Path C:\Users\siri\eclipse-workspace\RentalCar_RestAssured_Cucumber/src/main/resources/Properties/Log4j.properties
+2020-09-07 23:59:08 INFO  com.RestAssured.Utilites.TestBase 123 - Per day rent of all cars are [{Discount=15, Price=140}, {Discount=20, Price=150}, {Discount=10, Price=100}]
+2020-09-07 23:59:08 INFO  com.RestAssured.Utilites.TestBase 151 - Per day rent of all cars are [{Discount=15, Price=140}, {Discount=20, Price=150}, {Discount=10, Price=100}]
+2020-09-07 23:59:08 INFO  CommonUtilites 14 - Log4j PropertyFile Path C:\Users\siri\eclipse-workspace\RentalCar_RestAssured_Cucumber/src/main/resources/Properties/Log4j.properties
+2020-09-09 16:26:41 INFO  com.RestAssured.Utilites.TestBase 90 - Name of the cars are [Audi, Tesla, BMW]
+2020-09-09 16:26:41 INFO  com.RestAssured.Utilites.TestBase 93 - Car colors are[Black, Blue, white]
+2020-09-09 16:26:41 INFO  com.RestAssured.Utilites.TestBase 104 - Blue clor cars are Tesla
+2020-09-09 16:26:41 INFO  com.RestAssured.Utilites.TestBase 106 - Blue color car notes are Scratches on the front side of the car
+2020-09-09 16:26:41 INFO  CommonUtilites 14 - Log4j PropertyFile Path C:\Users\siri\eclipse-workspace\RentalCar_RestAssured_Cucumber/src/main/resources/Properties/Log4j.properties
+2020-09-09 16:26:41 INFO  com.RestAssured.Utilites.TestBase 123 - Per day rent of all cars are [{Discount=15, Price=140}, {Discount=20, Price=150}, {Discount=10, Price=100}]
+2020-09-09 16:26:41 INFO  com.RestAssured.Utilites.TestBase 151 - Per day rent of all cars are [{Discount=15, Price=140}, {Discount=20, Price=150}, {Discount=10, Price=100}]
+2020-09-09 16:26:41 INFO  CommonUtilites 14 - Log4j PropertyFile Path C:\Users\siri\eclipse-workspace\RentalCar_RestAssured_Cucumber/src/main/resources/Properties/Log4j.properties
+2020-09-09 21:44:09 INFO  com.RestAssured.Utilites.TestBase 90 - Name of the cars are [Audi, Tesla, BMW]
+2020-09-09 21:44:10 INFO  com.RestAssured.Utilites.TestBase 93 - Car colors are[Black, Blue, white]
+2020-09-09 21:44:10 INFO  com.RestAssured.Utilites.TestBase 104 - Blue clor cars are Tesla
+2020-09-09 21:44:10 INFO  com.RestAssured.Utilites.TestBase 106 - Blue color car notes are Scratches on the front side of the car
+2020-09-09 21:47:18 INFO  com.RestAssured.Utilites.TestBase 123 - Per day rent of all cars are [{Discount=15, Price=140}, {Discount=20, Price=150}, {Discount=10, Price=100}]
+2020-09-09 21:47:18 INFO  com.RestAssured.Utilites.TestBase 151 - Per day rent of all cars are [{Discount=15, Price=140}, {Discount=20, Price=150}, {Discount=10, Price=100}]
